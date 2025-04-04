@@ -9,9 +9,6 @@
  */
 public class cadastroVIEW extends javax.swing.JFrame {
 
-    /**
-     * Creates new form cadastroVIEW
-     */
     public cadastroVIEW() {
         initComponents();
     }
